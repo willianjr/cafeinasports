@@ -1,0 +1,23 @@
+*{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+body{
+  background: rgb(170,170,170);
+  background: linear-gradient(90deg, rgba(170,170,170,1) 0%, rgba(245,245,245,1) 35%, rgba(186,200,203,1) 100%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+
+}
+
+.App{
+  padding: 10rem;
+  display: flex;
+  background-color: #FFF;
+  flex: 1;
+  border-radius: 0.25rem;
+  flex-direction: column;
+ 
+}
